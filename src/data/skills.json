@@ -1,0 +1,20 @@
+{
+    "skills": 
+        [
+            {
+                "skill_name": "C#",
+                "exp": 7,
+                "img_src": ""
+            },
+            {
+                "skill_name": "HTML",
+                "exp": 7,
+                "img_src": ""
+            },
+            {
+                "skill_name": "Android",
+                "exp": 7,
+                "img_src": ""
+            }
+        ]
+}

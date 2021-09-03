@@ -34,4 +34,6 @@ npm run deploy
 
 
 ### Link used 
-https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/
+Setup - https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/
+Icons - https://www.npmjs.com/package/devicon-react-svg
+BootStrap - https://react-bootstrap.github.io/

@@ -2,7 +2,21 @@
 <Project Name> CSS Module
 header
 */
+@import "../../shared/variables";
+
 
 nav{
-    background-color: #0e0e0e;
+    background-color: $background;
+    .nav{
+        &-link{
+            &.active{
+                font-weight: bold;
+                border-bottom: solid 1px $primary;
+            }
+            &:hover{
+                font-weight: bold;
+                color: $primary !important;
+            }
+        }    
+    }
 }
